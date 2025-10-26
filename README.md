@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Xuanfan Lin
 
-<!--
-**XuanfanLin/XuanfanLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Integrated Machine Learning Systems @ UCL  
+💡 Interested in AI, Embedded Systems, and Intelligent Control  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🧮 [The AI Accountant](https://github.com/XuanfanLin/MSc_Project_AI_Accountant): LLM-based UK Tax Advisor
+- 🔧 Smart Door Lock (STM32 + WiFi + Motor Control)
+- 🧠 Cassava Leaf Disease Classification (TensorFlow + EfficientNet)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- 📧 fan020514@gmail.com  
+- 🌐 [LinkedIn](https://linkedin.com/in/xuanfanlin) | [Kaggle](https://www.kaggle.com/xuanfanlin)

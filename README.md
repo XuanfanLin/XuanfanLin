@@ -53,5 +53,4 @@ Implements dataset preprocessing, tokenization, fine-tuning, and visualization o
 
 ---
 
-![Xuanfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuanfanLin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuanfanLin&layout=compact&theme=radical)
